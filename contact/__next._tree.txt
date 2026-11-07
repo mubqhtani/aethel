@@ -1,0 +1,7 @@
+:HL["/aethel/_next/static/chunks/1bpp7nct70l9j.css","style"]
+:HL["/aethel/_next/static/media/420d6ef977b34540-s.p.0-uv4l43gdmt7.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/aethel/_next/static/media/861d9be630ba44be-s.p.0da8nscnv1nkd.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/aethel/_next/static/media/941d061a2bd9e7fe-s.p.3ik2qu-u9tgho.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"contact","h":64,"c":"$Q2"}]]
+0:{"b":"QcYCgVBquiMY-NKzDf9Q-","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
